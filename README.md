@@ -16,3 +16,4 @@ kx
 
 ## Configuration
 - `$KCS_KUBEDIR` will let you choose KUBECONFIG from this directory
+- to configure interactive look, see https://github.com/peco/peco
