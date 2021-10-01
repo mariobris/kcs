@@ -28,7 +28,7 @@ echo "{
         "SavedSelection": ["bold", "on_black", "green"],
         "Selected": ["bold", "on_black", "yellow"],
         "Query": ["yellow", "bold"],
-        "Matched": ["red", "on_blue"]
+        "Matched": ["yellow", "on_black"]
     }
 }" > $HOME/.peco/config.json
 ```
